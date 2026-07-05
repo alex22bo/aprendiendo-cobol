@@ -1,0 +1,7 @@
+
+# Binarios compilados de GnuCOBOL
+01-fundamentos/ejercicios/hola-mundo
+01-fundamentos/ejercicios/operaciones
+01-fundamentos/ejercicios/condicionales
+*.o
+*.exe
